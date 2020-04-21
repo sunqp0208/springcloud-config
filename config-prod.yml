@@ -1,1 +1,2 @@
-
+config:
+  info: "master prod,versio=1"
